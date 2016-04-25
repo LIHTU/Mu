@@ -1,0 +1,20 @@
+Types of MU solutions
+
+1. Have only a q of 'I' that is divisible by 3.
+	III IIIIII IIIIIIIII
+
+2. Have only a q of 'U' that is odd, in order to produce a single 'U'
+	U UUU UUUUU UUUUUUU
+	
+3. Have an odd q of 'U' that follows a q of 'I' that is divisible by 3.
+	IIIU IIIIIIUUU
+
+
+Experiments:
+1. Get rid of all Is
+	Result:
+
+
+Ruled out:	
+1. Double a set of Is to make it divisible by 3: not possible
+	
